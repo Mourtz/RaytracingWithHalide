@@ -1,0 +1,5 @@
+{
+    "cmake.configureSettings": {
+      "CMAKE_TOOLCHAIN_FILE": "C:/Users/alexm/OneDrive/Desktop/pt/external/vcpkg/scripts/buildsystems/vcpkg.cmake"
+    }
+}
